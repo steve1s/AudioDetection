@@ -1,2 +1,2 @@
 # AudioDetection
-Detecting sounds 
+Detecting sounds using machine learning
